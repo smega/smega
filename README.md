@@ -12,6 +12,8 @@ boring deployments and recovery that doesn't need a hero.
   Gateways) and posts to Slack. Read-only, OIDC, no stored credentials.
 - [nevnap-json-adatbazis](https://github.com/smega/nevnap-json-adatbazis): Hungarian
   namedays as JSON, the data behind [nevnapok.eu](https://nevnapok.eu).
+- Contributed to [Home Assistant](https://github.com/home-assistant/core/pull/32353):
+  extended the rTorrent sensor integration (merged upstream).
 
 **Tools I run** (live, free to try): [tools.smega.eu](https://tools.smega.eu) ·
 [seo.smega.eu](https://seo.smega.eu) · [yaots.smega.eu](https://yaots.smega.eu)
