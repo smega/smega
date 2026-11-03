@@ -16,7 +16,4 @@ boring deployments and recovery that doesn't need a hero.
 **Tools I run** (live, free to try): [tools.smega.eu](https://tools.smega.eu) ·
 [seo.smega.eu](https://seo.smega.eu) · [yaots.smega.eu](https://yaots.smega.eu)
 
-**Writing:** practical notes on running infrastructure as a team of one, every two
-weeks. Subscribe at [smega.eu](https://smega.eu/#subscribe).
-
 [LinkedIn](https://www.linkedin.com/in/szabolcs-mega-822b6a63/) · [smega.eu](https://smega.eu)
