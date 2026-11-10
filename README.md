@@ -7,6 +7,9 @@ boring deployments and recovery that doesn't need a hero.
 
 **What's here**
 
+- [runguard](https://github.com/smega/runguard): cron/heartbeat job monitoring
+  -- know the moment a scheduled job silently stops running. Self-hostable,
+  free, open-source CLI agent ([runguard-cli](https://github.com/smega/runguard-cli)).
 - [ghost-infra-scanner](https://github.com/smega/ghost-infra-scanner): finds AWS
   resources quietly costing you money (unattached EBS, idle Elastic IPs, idle NAT
   Gateways) and posts to Slack. Read-only, OIDC, no stored credentials.
@@ -15,7 +18,8 @@ boring deployments and recovery that doesn't need a hero.
 - Contributed to [Home Assistant](https://github.com/home-assistant/core/pull/32353):
   extended the rTorrent sensor integration (merged upstream).
 
-**Tools I run** (live, free to try): [tools.smega.eu](https://tools.smega.eu) ·
-[seo.smega.eu](https://seo.smega.eu) · [yaots.smega.eu](https://yaots.smega.eu)
+**Tools I run** (live, free to try): [runguard.smega.eu](https://runguard.smega.eu) ·
+[tools.smega.eu](https://tools.smega.eu) · [seo.smega.eu](https://seo.smega.eu) ·
+[yaots.smega.eu](https://yaots.smega.eu)
 
 [LinkedIn](https://www.linkedin.com/in/szabolcs-mega-822b6a63/) · [smega.eu](https://smega.eu)
