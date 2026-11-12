@@ -15,11 +15,14 @@ boring deployments and recovery that doesn't need a hero.
   Gateways) and posts to Slack. Read-only, OIDC, no stored credentials.
 - [nevnap-json-adatbazis](https://github.com/smega/nevnap-json-adatbazis): Hungarian
   namedays as JSON, the data behind [nevnapok.eu](https://nevnapok.eu).
+- [cluster-dashboard](https://github.com/smega/cluster-dashboard): a readonly
+  Kubernetes dashboard, live against the home Raspberry Pi k3s cluster this
+  profile's demos run on ([cluster.smega.eu](https://cluster.smega.eu)).
 - Contributed to [Home Assistant](https://github.com/home-assistant/core/pull/32353):
   extended the rTorrent sensor integration (merged upstream).
 
 **Tools I run** (live, free to try): [runguard.smega.eu](https://runguard.smega.eu) ·
 [tools.smega.eu](https://tools.smega.eu) · [seo.smega.eu](https://seo.smega.eu) ·
-[yaots.smega.eu](https://yaots.smega.eu)
+[yaots.smega.eu](https://yaots.smega.eu) · [cluster.smega.eu](https://cluster.smega.eu)
 
 [LinkedIn](https://www.linkedin.com/in/szabolcs-mega-822b6a63/) · [smega.eu](https://smega.eu)
